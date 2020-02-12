@@ -1,0 +1,6 @@
+TSOPTIM.FRM
+OPTIM.BAS
+MYOPTIM.BAS
+ProjWinSize=167,379,248,215
+ProjWinShow=2
+IconForm="Form1"
